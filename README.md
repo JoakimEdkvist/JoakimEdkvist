@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! My name is Joakim! 👋
+## I'm a Web Developer Student at IT-Högskolan in Gothenburg. 🌱
 
 <!--
 **JoakimEdkvist/JoakimEdkvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
